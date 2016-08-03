@@ -1,2 +1,2 @@
 # Tribute-Page.firstproject
-This is my first attempt at coding. Thank you FreeCodeCamp.
+This is my first attempt at coding. The project that I was given was to build a Tribute page (user story). I chose to do on Kobe Bryant, the Black Mamba. The reason I chose Kobe is partially because he was my favourite player to watch growing up, but largely because of his work ethic and dedicatation to his craft. Now that he is retired (sad face), he will take his work-ethic with him and I am absolutely certain he will succeed in everything that he attempts to accomplish. 
